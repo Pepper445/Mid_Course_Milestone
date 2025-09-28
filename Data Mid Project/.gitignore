@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
+.venv/
+# data files (if you want to ignore large data files)
+# data/
+name.basics.tsv
+name.basics.tsv.gz
